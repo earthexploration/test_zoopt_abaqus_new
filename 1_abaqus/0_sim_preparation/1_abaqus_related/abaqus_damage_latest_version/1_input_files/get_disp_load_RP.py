@@ -10,7 +10,7 @@ import sys, getopt
 ########################################################################
 #convert st12 from Gauss point to node
 ########################################################################
-odbPath="./example_rp.odb"
+odbPath="example_rp.odb"
 odb=openOdb(path=odbPath,readOnly=FALSE)
 
 # rp node
@@ -23,7 +23,7 @@ rp_Node = odb.rootAssembly.nodeSets['DISP-LOAD']
 
 
 
-file = open("./disp-load-rp.txt","w")
+file = open("disp-load-rp.txt","w")
 file.write('#disp    load'+'\n')
 
 lastStepPeriod = 0.0
