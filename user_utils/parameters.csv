@@ -1,0 +1,45 @@
+# Parameters,value1, value2,value3,value4,value5,value6,value7,value8
+********************************************************************************
+OMP_NUM_THREADS,8,threads for abaqus calculation
+dim_elastic,3,unkonws for optimization
+dim_plastic,4,unkonws for optimization
+budget,1000,numbers of iterations for optimization
+parallel,1,flag for parallel calculation 1 is true 0 is false
+server_num,12,number of parallel jobs
+opt_plot_file,opt_progress.pdf,file name
+expDataFileName,./2_exp_data/Exp_data/HR3C BM/拉伸曲线/HR3C BM工程应力-应变曲线.xlsx
+flagPercent,1,convert percent data real number
+flagTrueStrainStress,0,convert engineering strain to true strain
+lengthSection,5.0,initial length of the sample
+areaSection,6.0,inital section area of the sample
+********************************************************************************
+flag_e_p,1,flag_e_p = 0 -->> elastic determination flag_e_p =1 -->> plastic 
+********************************************************************************
+# Parameters in Huang umat,pay attention to the unit,some of them are constants
+## bounds type 
+C11_bounds,1.e9,999.e9,bounds for C11
+C12_bounds,1.e9,999.e9,bounds for C12
+C44_bounds,1.e9,999.e9,bounds for C44
+n_bounds,1.0,100.0,bounds for n rate sensitivity parameter (exponent),unknown
+adot_bounds,0.001,0.001,bounds for reference strain rate (slip rate)
+h0_bounds,1.0,9999.0, bounds for initial hardening modulus,unknown
+taus_bounds,1.0,9999.0, bounds for saturation stress,unknown
+tau0_bounds,1.0,9999.0, bounds for initial critical resolves stress,unknown
+q_bounds,0.1,1.0, bounds for ratio of latent to self-hardening: the same sets
+q1_bounds,0.1,1.0, bounds for ratio of laten to self-hardening: different sets
+## constants type
+C11,247378863244.480042,
+C12,95929465267.725815,
+C44,129155982510.802078,
+n,10.0,rate sensitivity parameter (exponent)
+adot,0.001,reference strain rate (slip rate)
+h0,541.5,initial hardening modulus
+taus,109.5,saturation stress
+tau0,60.8,initial critical resolves stress
+q,1.0,ratio of latent to self-hardening: the same sets
+q1,1.0,ratio of laten to self-hardening: different sets
+********************************************************************************
+# Parameters for inp
+Static,0.01,50.0,1e-8,0.01,
+z1,1.0,engineering strain is 20%
+frequency,50

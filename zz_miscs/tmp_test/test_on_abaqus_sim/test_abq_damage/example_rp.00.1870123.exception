@@ -1,0 +1,58 @@
+<Description>
+      ABAQUS/standard rank 00 pid 1870123 received signal 6 (Aborted)
+</Description>
+
+<Context>
+   ELEMENT LOOP
+</Context>
+
+<Phase>
+   Increment | Attempt | Iteration | Elgen | Elgene
+</Phase>
+
+<Callstack>
+   1) libABQSMABasShared.so      ! inline @ 0x000034c4a3f9
+   2) libpthread.so.0            ! inline @ 0x000033c6c420
+   3) libc.so.6                  ! gsignal
+   4) libc.so.6                  ! abort
+   5) libc.so.6                  ! inline @ 0x000033ad626e
+   6) libc.so.6                  ! __fortify_fail
+   7) libc.so.6                  ! inline @ 0x000033b77356
+   8) libc.so.6                  ! inline @ 0x000033ace04f
+   9) libc.so.6                  ! _IO_default_xsputn
+  10) libc.so.6                  ! inline @ 0x000033ac07ad
+  11) libc.so.6                  ! inline @ 0x000033ace0f9
+  12) libc.so.6                  ! __sprintf_chk
+  13) libifcoremt.so.5           ! fname_from_piped_fd
+  14) libifcoremt.so.5           ! for__compute_filename
+  15) libifcoremt.so.5           ! for__open_proc
+  16) libifcoremt.so.5           ! for__open_default
+  17) libifcoremt.so.5           ! for_write_seq_lis
+  18) libstandardU.so            ! inline @ 0x000032e6dd87
+  19) libstandardU.so            ! inline @ 0x000032e5565a
+  20) libABQSMAStaCore.so        ! inline @ 0x00003a342028
+</Callstack>
+
+<Memory>
+   <Current>           10091 MB </Current>
+   <Resident>            963 MB </Resident>
+   <Physical>         129024 MB </Physical>
+   <Limit>            103219 MB </Limit>
+   <Accessible>       129024 MB </Accessible>
+   <Allocator>            DL    </Allocator>
+   <HugePages>       madvise    </HugePages>
+</Memory>
+
+<Directories>
+  <current> /tmp/cailei_example_rp_1869993 </current> 
+    <indir> /data2/2_zoopt_abaqus/zoopt_abaqus_elastic/tmp_test/abaqus_simulation/1_input_files </indir> 
+   <outdir> /data2/2_zoopt_abaqus/zoopt_abaqus_elastic/tmp_test/abaqus_simulation/1_input_files </outdir>
+   <tmpdir> /tmp/cailei_example_rp_1869993 </tmpdir>
+</Directories>
+
+<Installation>
+     <Version> 2020 6.20-1 </Version>
+       <Build>   2019_09_14-01.49.31 163176 </Build>
+  <Executable> /home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/code/bin/standard </Executable>
+</Installation>
+
