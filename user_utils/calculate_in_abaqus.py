@@ -168,9 +168,20 @@ def calculate_in_abaqus_plasticity(x, cpus_abq):
             occured. The else condition should ternimation this loop.
             """
             if glob.glob('*.exception'):
-                print("***The calculation was terminated abnormally!!!\n"
+                # 很奇怪，有时候会无缘无故的出现一个exception，但是sta还在正常的运行，所以会出问题
+                with open(job_name+'.sta', 'r') as file:
+                    last_line = file.readlines()[-1]
+                    file.close()
+                old_tail = last_line
+                os.system('sleep 30')
+                with open(job_name+'.sta', 'r') as file:
+                    last_line = file.readlines()[-1]
+                    file.close()
+                new_tail = last_line
+                if old_tail == new_tail:
+                    print("***The calculation was terminated abnormally!!!\n"
                       + "***check the exception explanation in calculate_in_abaqus.py")
-                break
+                    break
         # sleep for 30s to avoid excessive condition checking
         os.system('sleep 30')
 
