@@ -69,7 +69,7 @@ class Evaluator(Process):
         self.number = number
         self.unevaluated_queue = unevaluated_queue
         self.evaluated_queue = evaluated_queue
-        self.daemon = True
+        #self.daemon = True
 
     def run(self):
         while True:
@@ -93,7 +93,7 @@ class Updater(Process):
         self.lower_dim = lower_dim
         self.upper_dim = upper_dim
         self.ub = ub
-        self.daemon = True
+        #self.daemon = True
         if parameter.get_seed() is not None:
             np.random.seed(parameter.get_seed() + 2)
 
