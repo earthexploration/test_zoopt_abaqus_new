@@ -1,0 +1,330 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(0_plasticity_moduli_determination.py:3044350): Gdk-CRITICAL **: 18:08:21.752: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+rm: cannot remove '*.odb': No such file or directory
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+rm: cannot remove '*.odb': No such file or directory
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+  File "get_disp_load_RP.py", line 14, in <module>
+  File "get_disp_load_RP.py", line 14, in <module>
+  File "get_disp_load_RP.py", line 14, in <module>
+        odb=openOdb(path=odbPath,readOnly=FALSE)
+odb=openOdb(path=odbPath,readOnly=FALSE)
+        odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbErrorodb=openOdb(path=odbPath,readOnly=FALSE)
+OdbErrorOdbError: : : OdbErrorCannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.: 
+
+
+Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception Exception Exception TypeErrorTypeErrorException TypeError: : 'TypeError: 'e: 'ex'expexpexpecpcteteecedctd te sedstd tr sristintrngrig in ongorg r  o UorUnr ni UicUnconiodicdecoe od odeobe bj ojeobecbjctjet,ec, ct mt,mo, od mdumoulodledue ul flefoe ou funfondoud'un' in nd in d<module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'>''<module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+ in  in  ignored
+<module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'><module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+ ignored
+rm: cannot remove '*.odb': No such file or directory
+rm: cannot remove '*.odb': No such file or directory
+rm: cannot remove '*.odb': No such file or directory
+rm: cannot remove '*.odb': No such file or directory
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+rm: cannot remove '*.odb': No such file or directoryrm: 
+cannot remove '*.odb': No such file or directory
+rm: rm: cannot remove '*.odb'cannot remove '*.odb': No such file or directory: No such file or directory
+
+rm: cannot remove '*.odb': No such file or directory
+[zoopt] budget 13, fx result: 411.47070696800245
+[zoopt] x: [88.27288394217793, 1124.812262474887, 243.08645744459116, 9083.194682774036]
+[zoopt] budget 14, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 15, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 16, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 17, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] expected remaining running time: 01:42:14
+[zoopt] budget 18, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 19, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 20, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 21, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 22, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 23, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 24, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+Abaqus Error: Detected lock file example_rp.lck. Please confirm that no other applications are attempting to write to the output database associated with this job before removing the lock file and resubmitting.
+Abaqus/Analysis exited with error(s).
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+rm: cannot remove '*.odb': No such file or directory
+[zoopt] budget 25, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+[zoopt] budget 26, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 27, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 28, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 29, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+Abaqus Error: Detected lock file example_rp.lck. Please confirm that no other applications are attempting to write to the output database associated with this job before removing the lock file and resubmitting.
+Abaqus/Analysis exited with error(s).
+rm: cannot remove '*.lck': No such file or directory
+[zoopt] budget 30, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+rm: cannot remove '*.lck': No such file or directory
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+rm: cannot remove '*.odb': No such file or directory
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+rm: cannot remove '*.odb': No such file or directory
+[zoopt] budget 31, fx result: 1.0819589186949596
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 32, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 33, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 34, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+Abaqus Error: Detected lock file example_rp.lck. Please confirm that no other applications are attempting to write to the output database associated with this job before removing the lock file and resubmitting.
+Abaqus/Analysis exited with error(s).
+Abaqus Error: Detected lock file example_rp.lck. Please confirm that no other applications are attempting to write to the output database associated with this job before removing the lock file and resubmitting.
+Abaqus/Analysis exited with error(s).
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+rm: cannot remove '*.odb': No such file or directory
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+rm: cannot remove '*.odb': No such file or directory
+[zoopt] budget 35, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 36, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+rm: cannot remove '*.lck': No such file or directory
+[zoopt] budget 37, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+Abaqus Error: Detected lock file example_rp.lck. Please confirm that no other applications are attempting to write to the output database associated with this job before removing the lock file and resubmitting.
+Abaqus/Analysis exited with error(s).
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+rm: cannot remove '*.odb': No such file or directory
+[zoopt] budget 38, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+rm: cannot remove '*.lck': No such file or directory
+[zoopt] budget 39, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 40, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 41, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 42, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 43, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+Abaqus Error: Detected lock file example_rp.lck. Please confirm that no other applications are attempting to write to the output database associated with this job before removing the lock file and resubmitting.
+Abaqus/Analysis exited with error(s).
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+rm: cannot remove '*.odb': No such file or directory
+[zoopt] budget 44, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+Abaqus Error: Detected lock file example_rp.lck. Please confirm that no other applications are attempting to write to the output database associated with this job before removing the lock file and resubmitting.
+Abaqus/Analysis exited with error(s).
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+Traceback (most recent call last):
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 86, in <module>
+  File "SMAPylModules/SMAPylDriverPy.m/src/application.py", line 148, in run
+  File "SMAPylModules/SMAPylDriverPy.m/src/script.py", line 65, in execute
+  File "get_disp_load_RP.py", line 14, in <module>
+    odb=openOdb(path=odbPath,readOnly=FALSE)
+OdbError: Cannot open file /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb. *** ERROR: No such file: /data2/2_parameter_identification/test_zoopt_abaqus_new/1_abaqus/1_sim_for_iterations/n_40.66297422413897_adot_0.001_h0_4844.050307351116_taus_7456.999124887746_tau0_472.5698312029683_q_1.0_q1_1.0/./example_rp.odb.
+Exception TypeError: 'expected string or Unicode object, module found' in <module 'threading' from '/home/cailei/usr/SIMULIA/EstProducts/2020/linux_a64/tools/SMApy/python2.7/lib/python2.7/threading.pyc'> ignored
+rm: cannot remove '*.odb': No such file or directory
+[zoopt] budget 45, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+rm: cannot remove '*.lck': No such file or directory
+[zoopt] budget 46, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+rm: cannot remove '*.lck': No such file or directory
+[zoopt] budget 47, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+rm: cannot remove '*.lck': No such file or directory
+[zoopt] budget 48, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+rm: cannot remove '*.lck': No such file or directory
+***The calculation was terminated abnormally!!!
+***check the exception explanation in calculate_in_abaqus.py
+[zoopt] budget 49, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
+[zoopt] budget 50, fx result: 1.023777001812185
+[zoopt] x: [40.66297422413897, 4844.050307351116, 472.5698312029683, 7456.999124887746]
