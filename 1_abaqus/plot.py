@@ -4,6 +4,9 @@ import matplotlib.pyplot as plt
 
 root_dir = './1_sim_for_iterations'
 
+# 创建图形
+fig = plt.figure()
+
 # 遍历根目录下的第一级文件夹
 for dir in os.listdir(root_dir):
     subdir = os.path.join(root_dir, dir)
@@ -16,7 +19,8 @@ for dir in os.listdir(root_dir):
                 skiprows = [i for i, line in enumerate(open(file_path, 'r')) if line.startswith('#')]
                 df = pd.read_csv(file_path, delimiter=' ', header=None, usecols=[0, 1], skiprows=skiprows)
                 # 绘制曲线
-                df.plot(x=0, y=1)
+                df.plot(x=0, y=1, ax=fig.gca())
+
 
 #plt.show()
 # 保存图片
