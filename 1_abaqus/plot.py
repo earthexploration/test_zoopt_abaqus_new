@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
+import pandas as pd
 
 root_dir = './1_sim_for_iterations'
 
@@ -20,7 +21,6 @@ for dir in os.listdir(root_dir):
                 df = pd.read_csv(file_path, delimiter=' ', header=None, usecols=[0, 1], skiprows=skiprows)
                 # 绘制曲线
                 df.plot(x=0, y=1, ax=fig.gca())
-
 
 #plt.show()
 # 保存图片
