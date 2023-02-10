@@ -10,8 +10,9 @@ for subdir, dirs, files in os.walk(root_dir):
         # 找到后缀是.txt的文件
         if file.endswith('.txt'):
             file_path = os.path.join(subdir, file)
-            # 读取txt文件中的两列数字
-            df = pd.read_csv(file_path, delimiter='\t', header=None, usecols=[0, 1])
+            # 读取txt文件中的两列数字，排除以#开始的行
+            skiprows = [i for i, line in enumerate(open(file_path, 'r')) if line.startswith('#')]
+            df = pd.read_csv(file_path, delimiter='\t', header=None, usecols=[0, 1], skiprows=skiprows)
             # 绘制曲线
             df.plot(x=0, y=1)
 
